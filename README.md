@@ -1,2 +1,4 @@
-# branching-demo
-Sample repository to experiment with branching/release
+# Chicago Tour Guide
+This document is a tour guide of Chicago.
+
+It will include information about Dining and Entertainment.
